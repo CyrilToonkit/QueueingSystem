@@ -1,0 +1,10 @@
+X:\FoamWorkspace\RnD\Standalone\QueueingSystem\QueueingLib\bin\Release\QueueingLib.dll
+X:\FoamWorkspace\RnD\Standalone\QueueingSystem\QueueingLib\bin\Release\QueueingLib.pdb
+X:\FoamWorkspace\RnD\Standalone\QueueingSystem\QueueingLib\obj\Release\ResolveAssemblyReference.cache
+X:\FoamWorkspace\RnD\Standalone\QueueingSystem\QueueingLib\obj\Release\QueueingLib.Properties.Resources.resources
+X:\FoamWorkspace\RnD\Standalone\QueueingSystem\QueueingLib\obj\Release\QueueingLib.JobUCtrl.resources
+X:\FoamWorkspace\RnD\Standalone\QueueingSystem\QueueingLib\obj\Release\QueueingLib.QueueUCtrl.resources
+X:\FoamWorkspace\RnD\Standalone\QueueingSystem\QueueingLib\obj\Release\QueueingLib.csproj.GenerateResource.Cache
+X:\FoamWorkspace\RnD\Standalone\QueueingSystem\QueueingLib\obj\Release\QueueingLib.dll
+X:\FoamWorkspace\RnD\Standalone\QueueingSystem\QueueingLib\obj\Release\QueueingLib.pdb
+X:\FoamWorkspace\RnD\Standalone\QueueingSystem\QueueingLib\obj\Release\QueueingLib.ProcessForm.resources
